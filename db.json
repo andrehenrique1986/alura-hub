@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "login": "alexshima",
+      "id": "1",
+      "avatar_url": "../../../assets/alexshima.png",
+      "name": "Shima",
+      "email": "shimabuko@email.com.br",
+      "followers": 1000,
+      "following": 2000
+    },
+    {
+      "login": "bplastino",
+      "id": "2",
+      "avatar_url": "../../../assets/bplastino.png",
+      "name": "Bruno Plastino",
+      "email": "bplastino@email.com.br",
+      "followers": 250,
+      "following": 300
+    },
+    {
+      "login": "glinhares",
+      "id": "3",
+      "avatar_url": "../../../assets/glinhares.png",
+      "name": "Giulia Linhares",
+      "email": "glinha@email.com.br",
+      "followers": 500,
+      "following": 400
+    },
+    {
+      "login": "kbombonatti",
+      "id": "4",
+      "avatar_url": "../../../assets/kbombonatti.png",
+      "name": "Katiusa Bombonatti",
+      "email": "kbombonatti@email.com.br",
+      "followers": 560,
+      "following": 900
+    },
+    {
+      "login": "ahlima",
+      "id": "5",
+      "avatar_url": "../../../assets/ahlima.png",
+      "name": "André Henrique Lima",
+      "email": "ahlima@email.com.br",
+      "followers": 500,
+      "following": 600
+    },
+    {
+      "login": "capolonio",
+      "id": "6",
+      "avatar_url": "../../../assets/capolonio.png",
+      "name": "Pops",
+      "email": "capolonio@email.com.br",
+      "followers": 300,
+      "following": 400
+    },
+    {
+      "login": "ncampos",
+      "id": "7",
+      "avatar_url": "../../../assets/ncampos.png",
+      "name": "Nathan Campos",
+      "email": "ncamposo@email.com.br",
+      "followers": 600,
+      "following": 1200
+    },
+    {
+      "login": "gmagalhaes",
+      "id": "8",
+      "avatar_url": "../../../assets/gmagalhaes.png",
+      "name": "Gabriel de Magalhães",
+      "email": "ncamposo@email.com.br",
+      "followers": 200,
+      "following": 600
+    },
+    {
+      "login": "lmoura",
+      "id": "9",
+      "avatar_url": "../../../assets/lmoura.png",
+      "name": "Leandro de Moura",
+      "email": "lmoura@email.com.br",
+      "followers": 1000,
+      "following": 1500
+    },
+    {
+      "login": "pdmartinez",
+      "id": "10",
+      "avatar_url": "../../../assets/pdmartinez.png",
+      "name": "Pedro Daniel Martinez",
+      "email": "pdmartinez@email.com.br",
+      "followers": 450,
+      "following": 800
+    }
+  ],
+  "repos": [
+    {
+      "id": 1,
+      "name": "Coletor do T2",
+      "data": "1 de mai. 2021",
+      "postId": 8
+    },
+    {
+      "id": 2,
+      "name": "Projeto TMS Protheus",
+      "data": "2 de nov. 2020",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "name": "Planilhas de Contas da Vivo",
+      "data": "1 de mai. 2021",
+      "postId": 3
+    },
+    {
+      "id": 4,
+      "name": "Calculadorinha",
+      "data": "29 de abr. 2024",
+      "postId": 5
+    },
+    {
+      "id": 5,
+      "name": "Requisitos Funcionais - Loopty",
+      "data": "2 de mai. de 2024",
+      "postId": 1
+    },
+    {
+      "id": 6,
+      "name": "Automatização do Armazém",
+      "data": "3 de abr. de 2024",
+      "postId": 2
+    },
+    {
+      "id": 7,
+      "name": "Calculadora do Siccof",
+      "data": "4 de jan. de 2021",
+      "postId": 2
+    }
+  ]
+}
