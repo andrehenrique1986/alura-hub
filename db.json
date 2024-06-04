@@ -67,8 +67,8 @@
       "login": "gmagalhaes",
       "id": "8",
       "avatar_url": "../../../assets/gmagalhaes.png",
-      "name": "Gabriel de Magalhães",
-      "email": "ncamposo@email.com.br",
+      "name": "Gabriel Pezzo de Magalhães",
+      "email": "gmagalhaes@email.com.br",
       "followers": 200,
       "following": 600
     },
@@ -93,46 +93,46 @@
   ],
   "repos": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Coletor do T2",
       "data": "1 de mai. 2021",
-      "postId": 8
+      "postId": 9
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Projeto TMS Protheus",
       "data": "2 de nov. 2020",
       "postId": 2
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Planilhas de Contas da Vivo",
       "data": "1 de mai. 2021",
       "postId": 3
     },
     {
-      "id": 4,
-      "name": "Calculadorinha",
-      "data": "29 de abr. 2024",
-      "postId": 5
+      "name": "Calculadorinha do Siccof",
+      "data": "02 de jun. 2022",
+      "postId": 5,
+      "id": "4"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Requisitos Funcionais - Loopty",
       "data": "2 de mai. de 2024",
       "postId": 1
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Automatização do Armazém",
       "data": "3 de abr. de 2024",
       "postId": 2
     },
     {
-      "id": 7,
-      "name": "Calculadora do Siccof",
-      "data": "4 de jan. de 2021",
-      "postId": 2
+      "name": "Melhoria Calculadora do Siccof",
+      "data": "4 de abr. de 2022",
+      "postId": 2,
+      "id": "7"
     }
   ]
 }

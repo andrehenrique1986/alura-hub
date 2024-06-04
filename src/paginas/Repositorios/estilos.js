@@ -39,7 +39,7 @@ const estilos = StyleSheet.create({
         color: '#999',
     },
     botao: {
-        backgroundColor: '#8A07DA',
+        backgroundColor: '#0D63AB',
         marginTop: 20,
         marginBottom: 30,
         padding: 10,

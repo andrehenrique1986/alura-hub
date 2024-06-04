@@ -8,7 +8,7 @@ const estilos = StyleSheet.create({
         marginBottom: 20,
     },
     botao: {
-        backgroundColor: '#8A07DA',
+        backgroundColor: '#0D63AB',
         marginTop: 20,
         padding: 10,
         alignItems: 'center',
@@ -73,7 +73,7 @@ const estilos = StyleSheet.create({
         alignItems: 'center',
     },
     seguidoresNumero: {
-        color: '#8A07DA',
+        color: '#0D63AB',
         fontSize: 15,
     },
     seguidoresTexto: {
@@ -82,7 +82,7 @@ const estilos = StyleSheet.create({
         marginTop: 5,
     },
     repositorios: {
-        color: '#8A07DA',
+        color: '#0D63AB',
         fontSize: 15,
         fontWeight: '400',
     }

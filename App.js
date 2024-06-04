@@ -1,8 +1,10 @@
 import React from 'react';
 import Rotas from './src/rotas';
 
-export default function App() {
+ const App = () => {
   return (
     <Rotas />
   );
 }
+
+export default App;

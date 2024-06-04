@@ -4,6 +4,7 @@ import estilos from './estilos';
 import { buscaUsuario } from '../../servicos/requisicoes/usuarios';
 
 
+
 const getImageSource = (avatarUrl) => {
     const images = {
         "../../../assets/alexshima.png": require('../../../assets/alexshima.png'),
@@ -21,7 +22,7 @@ const getImageSource = (avatarUrl) => {
     return images[avatarUrl];
 };
 
-export default function Principal({ navigation }) {
+ const Principal = ({ navigation }) => {
     const [nomeUsuario, setNomeUsuario] = useState('');
     const [usuario, setUsuario] = useState({});
 
@@ -61,7 +62,7 @@ export default function Principal({ navigation }) {
                             <Text style={estilos.seguidoresTexto}>Seguindo</Text>
                         </View>
                     </View>
-                    <TouchableOpacity onPress={() => navigation.navigate('Repositorios')}>
+                    <TouchableOpacity onPress={() => navigation.navigate('Repositorios', {id: usuario.id})}>
                         <Text style={estilos.repositorios}>
                             Ver os repositórios
                         </Text>
@@ -86,3 +87,5 @@ export default function Principal({ navigation }) {
         </ScrollView>
     );
 }
+
+export default Principal;
